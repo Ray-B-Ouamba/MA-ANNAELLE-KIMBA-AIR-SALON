@@ -1,16 +1,23 @@
 # SWEETHEART-AIR-SALON
-A tool for drawing clients, giving information, organizing work, and fostering relationships with the public that visits the salon.
+A tool for drawing clients, giving information, organizing work, and fostering relationships with the public that visits the salon..
 
-**PROJECT LINK:**  https://ray-b-ouamba.github.io/SWEETHEART-AIR-SALON/
+**Link to project:** https://ray-b-ouamba.github.io/SWEETHEART-AIR-SALON/
 
-**TECH USED:** 
-HTML, CSS, JavaScript
+## How It's Made:
 
-## LESSONS LEARNED:
+**Tech used:** HTML, CSS, JavaScript.
+
+## Lessons Learned:
 * Learn to use best HTML CSS and JavaScript.
 
-## SIMILAR PROJECT:
-
+## Similar Project:
 **H.VICTOIRE-GALLERY-WEBSITE:** https://ray-b-ouamba.github.io/H.VICTOIRE-GALLERY-WEBSITE-/
+
+
+
+
+
+
+
 
 
