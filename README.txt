@@ -1,45 +1,38 @@
-Spectral by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# SWEETHEART-HAIR-SALON-PART-TWO
+
+A tool for drawing clients, giving information, organizing work, and fostering relationships with the public that visits the salon.
+
+**PROJECT LINK:** https://ray-b-ouamba.github.io/RAYFLAMME-GALLERY-WEBSITE/
+
+**TECH USED:** 
+* HTML,
+* CSS.
+* JAVASCRIPT
+* SASS
+
+## OPTIMIZATIONS:
+
+* Use a new background image for every HTML page.
+* Include the address of your hair business if desired.
+* Include the beginning of your story if you'd like.
+* Address any issues with your three buttons (our story, the team, and meet us):
+  * When you click on it, it should take you to the corresponding page where you may check more details.
+
+## LESSONS LEARNED:
+
+* Get proficient at organizing your work so you can spot problems fast.
+* Acquire proficiency in nesting HTML pages.
+* Gain knowledge in debugging code.
+
+## SIMILAR PROJECT:
+
+**COFEE-CULTURE-MENU:** https://ray-b-ouamba.github.io/COFFEE-CULTURE-MENU/
+
+**COMMERCIAL-CALCULATOR:** https://ray-b-ouamba.github.io/COMMERCIAL-CALCULATOR/
+
+**PARTICIPANT-REGISTRATION-FORM:** https://ray-b-ouamba.github.io/PARTICIPANT-REGISTRATION-FORM/
+
+**COFFEE-CULTURE-WITH-DYNAMIC-MENU-BACKGROUND-IMAGES:** https://ray-b-ouamba.github.io/COFFEE-CULTURE-WITH-DYNAMIC-MENU-BACKGROUND-IMAGES/
 
 
-A big, modern, blocky affair with a mobile-style menu, fully responsive styling,
-and an assortment of pre-styled elements. So, pretty much what you were expecting
--- except, of course, for how it's put together, specifically:
 
-- It's built with components from my Responsive Tools project.
-
-- It uses flexbox, which eliminates all kinds of terrible hacks and clunky layout
-  stopgaps (like CSS grid systems).
-
-- It uses Sass* a lot more intelligently, thanks in part to several new mixins
-  and functions I've been working on (as well as a few by @HugoGiraudel).
-
-  (* = still entirely optional if you prefer vanilla CSS :)
-
-- A ton of other stuff.
-
-In short, Spectral's the culmination of several new things I'm working on/trying out,
-so please, let me know what you think :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
