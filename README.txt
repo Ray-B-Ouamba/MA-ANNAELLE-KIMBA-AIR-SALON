@@ -2,7 +2,7 @@
 
 A tool for drawing clients, giving information, organizing work, and fostering relationships with the public that visits the salon.
 
-**PROJECT LINK:** https://ray-b-ouamba.github.io/RAYFLAMME-GALLERY-WEBSITE/  000000
+**PROJECT LINK:** https://ray-b-ouamba.github.io/RAYFLAMME-GALLERY-WEBSITE/  
 
 **TECH USED:** 
 * HTML,
