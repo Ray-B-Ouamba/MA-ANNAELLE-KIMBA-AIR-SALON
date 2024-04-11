@@ -5,7 +5,11 @@ A tool for drawing clients, giving information, organizing work, and fostering r
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript.
+**Tech used:** 
+* HTML, 
+* CSS, 
+* JavaScript.
+*SASS
 
 ## Lessons Learned:
 * Learn to use best HTML CSS and JavaScript.
