@@ -9,7 +9,7 @@ A tool for drawing clients, giving information, organizing work, and fostering r
 * CSS.
 * JAVASCRIPT
 * SASS
-**************
+
 
 ## OPTIMIZATIONS:
 
