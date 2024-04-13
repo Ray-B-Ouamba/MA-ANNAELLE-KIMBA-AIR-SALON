@@ -10,8 +10,6 @@ A tool for drawing clients, giving information, organizing work, and fostering r
 * JAVASCRIPT
 * SASS  
 
-
-
 ## OPTIMIZATIONS:
 
 * Use a new background image for every HTML page.
