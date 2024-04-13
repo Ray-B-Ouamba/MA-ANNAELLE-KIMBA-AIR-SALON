@@ -1,6 +1,5 @@
 # SWEETHEART-HAIR-SALON-PART-TWO
 
-ss
 
 A tool for drawing clients, giving information, organizing work, and fostering relationships with the public that visits the salon.
 
